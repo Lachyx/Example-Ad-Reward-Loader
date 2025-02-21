@@ -1,0 +1,16 @@
+{
+    "robloxLsp.diagnostics.globals": [
+        "getgenv",
+        "makefolder",
+        "http",
+        "request",
+        "readfile",
+        "isfile",
+        "clonereference",
+        "cloneref",
+        "http_request",
+        "writefile",
+        "syn",
+        "setclipboard"
+    ]
+}
